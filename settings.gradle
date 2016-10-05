@@ -1,0 +1,1 @@
+include ':proxytool-sample', ':proxytool-annotations', ':proxytool-api', ':proxytool-compiler'
