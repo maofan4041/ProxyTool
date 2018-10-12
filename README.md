@@ -1,6 +1,6 @@
 # ProxyTool
 
-利用APT生成的Android编译时注解框架。该框架只包含`@ViewById` 和`@OnClick` 两个注解的功能，仅供学习交流使用。
+鍒╃敤APT鐢熸垚鐨凙ndroid缂栬瘧鏃舵敞瑙ｆ鏋躲�傝妗嗘灦鍙寘鍚玚@ViewById` 鍜宍@OnClick` 涓や釜娉ㄨВ鐨勫姛鑳斤紝浠呬緵瀛︿範浜ゆ祦浣跨敤銆傛枃绔犲湴鍧�璇杩欓噷](https://blog.csdn.net/mcryeasy/article/details/52740041)
 
 
 
